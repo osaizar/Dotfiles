@@ -56,9 +56,6 @@ endif
 " DeustoTech
 set hls
 
-" Red line for 80 char control
-set cc=80
-
 " Especial paste mode
 nnoremap <F6> :set invpaste paste?<CR>
 set pastetoggle=<F6>
