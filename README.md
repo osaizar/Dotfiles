@@ -1,8 +1,12 @@
-# LinuxEnv
-Configuration files for my linux environment (terminator, tmux, zsh...)
+# Dotfiles
+Configuration files for linux environment.
+
+Including:
+- zsh
+- tmux
 
 ## Zsh
-It uses Oh My Zsh: https://github.com/robbyrussell/oh-my-zsh
+It uses Oh My Zsh: https://github.com/ohmyzsh/ohmyzsh
 
 ## tmux
-It uses tmux-themepack: https://github.com/jimeh/tmux-themepack
+It uses TPM: https://github.com/tmux-plugins/tpm
