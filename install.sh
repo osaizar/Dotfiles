@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 1. install dependencies
-sudo apt install zsh tmux git curl
+sudo apt install zsh tmux git curl xclip
 
 # 2. ohmyzsh
 echo "[+] Installing ohmyzsh you may need to exit zsh after the installation is complete"
